@@ -13,11 +13,11 @@ What product sold the most? Why do you think it sold the most?
 Data Source
 
 sales_data.csv: The main dataset containing sales transactions for the 12 months.
-Project Files
 
-sales_analysis.ipynb 
+Project Files: SalesAnalysis.ipynb 
 Jupyter Notebook containing the data cleaning, analysis, and visualization code.
 README.md: This file, provides an overview of the project.
+
 Getting Started
 
 Clone the Repository:
