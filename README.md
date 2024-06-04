@@ -1,7 +1,7 @@
 Electronics Sales Analysis Project
-Project Description
 
-This project analyzes 12 months of electronics sales data to uncover key trends and insights that can guide business strategy and decision-making. The analysis focuses on identifying peak sales periods, top-performing products, optimal advertising timing, and potential for product bundles.
+Project Description
+This project analyzes 12 months of electronics sales data to uncover key trends and insights that can guide business strategy and decision-making. The analysis identifies peak sales periods, top-performing products, optimal advertising timing, and potential for product bundles.
 
 Key Questions Addressed
 
@@ -12,12 +12,12 @@ What products are most often sold together?
 What product sold the most? Why do you think it sold the most?
 Data Source
 
-sales_data.csv: The main dataset containing sales transactions for the 12-month period.
+sales_data.csv: The main dataset containing sales transactions for the 12 months.
 Project Files
 
 sales_analysis.ipynb 
 Jupyter Notebook containing the data cleaning, analysis, and visualization code.
-README.md: This file, providing an overview of the project.
+README.md: This file, provides an overview of the project.
 Getting Started
 
 Clone the Repository:
@@ -37,4 +37,4 @@ content_copy
 Run the Analysis:
 
 Bash
-jupyter notebook sales_analysis.ipynb
+jupyter notebook SalesAnalysis.ipynb
